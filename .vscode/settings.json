@@ -1,0 +1,9 @@
+{
+    "java.project.sourcePaths": [
+        ".",
+        "src\\hotel\\management\\system"
+    ],
+    "java.project.referencedLibraries": [
+        "c:\\Users\\HP\\Downloads\\mysql-connector-j-9.7.0\\mysql-connector-j-9.7.0\\mysql-connector-j-9.7.0.jar"
+    ]
+}
